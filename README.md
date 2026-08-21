@@ -9,10 +9,10 @@ Ox Alpha thinking levels:
 | Level | What it does |
 | --- | --- |
 | `low` | Light reasoning, faster replies |
-| `high` | Stronger reasoning (project default) |
-| `max` | Highest reasoning budget |
+| `high` | Stronger reasoning |
+| `max` | Highest reasoning budget (project default) |
 
-Build and plan agents default to `high`. Cycle levels in the TUI, or set `"variant": "low"` / `"max"` on an agent in `opencode.json`. Root `model` does not keep a variant; agent `variant` does.
+Build and plan agents default to `max`. Cycle levels in the TUI, or set `"variant": "low"` / `"high"` on an agent in `opencode.json`. Root `model` does not keep a variant; agent `variant` does.
 
 ## Install OpenCode
 

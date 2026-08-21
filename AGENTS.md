@@ -1,6 +1,6 @@
 # ox-alpha-pi
 
-This repository is an OpenCode workspace. The default model is **Ox Alpha Free** (`opencode/x-preview-f-free`) via OpenCode Zen, with thinking level **high**. Available levels: `low`, `high`, `max`.
+This repository is an OpenCode workspace. The default model is **Ox Alpha Free** (`opencode/x-preview-f-free`) via OpenCode Zen, with thinking level **max**. Available levels: `low`, `high`, `max`.
 
 ## Layout
 
