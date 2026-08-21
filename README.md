@@ -4,6 +4,16 @@ Fresh [OpenCode](https://opencode.ai) workspace with **Ox Alpha** as the default
 
 Default model ID: `opencode/x-preview-f-free` (Ox Alpha Free on [OpenCode Zen](https://opencode.ai/docs/zen)).
 
+Ox Alpha thinking levels:
+
+| Level | What it does |
+| --- | --- |
+| `low` | Light reasoning, faster replies |
+| `high` | Stronger reasoning (project default) |
+| `max` | Highest reasoning budget |
+
+Build and plan agents default to `high`. Cycle levels in the TUI, or set `"variant": "low"` / `"max"` on an agent in `opencode.json`. Root `model` does not keep a variant; agent `variant` does.
+
 ## Install OpenCode
 
 This repo pins OpenCode `1.18.20` as a local CLI:

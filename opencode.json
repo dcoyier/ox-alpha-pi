@@ -19,10 +19,12 @@
   },
   "agent": {
     "build": {
-      "model": "opencode/x-preview-f-free"
+      "model": "opencode/x-preview-f-free",
+      "variant": "high"
     },
     "plan": {
-      "model": "opencode/x-preview-f-free"
+      "model": "opencode/x-preview-f-free",
+      "variant": "high"
     }
   }
 }
