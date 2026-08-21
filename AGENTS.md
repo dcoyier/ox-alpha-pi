@@ -4,6 +4,7 @@ This repository is an OpenCode workspace. The default model is **Ox Alpha Free**
 
 ## Layout
 
+- `opencode/` — full OpenCode v1.18.20 source snapshot
 - `opencode.json` — project OpenCode config, including the default model
 - `AGENTS.md` — project instructions for the coding agent
 - `README.md` — install and run notes

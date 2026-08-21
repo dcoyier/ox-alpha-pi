@@ -1,0 +1,3 @@
+v1.18.20
+https://github.com/anomalyco/opencode
+commit 7248bc1964b13fa67e601733f89ee9dc6dfa0563
