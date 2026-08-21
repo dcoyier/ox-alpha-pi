@@ -1,0 +1,11 @@
+{
+  "name": "ox-alpha-pi",
+  "private": true,
+  "description": "OpenCode workspace with Ox Alpha as the default model",
+  "scripts": {
+    "opencode": "opencode"
+  },
+  "devDependencies": {
+    "opencode-ai": "1.18.20"
+  }
+}
